@@ -7,7 +7,7 @@
       "config": { "maxLambdaSize": "15mb", "runtime": "python3.9" }
     },
     {
-      "src": "ui/litellm-dashboard/next.config.mjs",
+      "src": "ui/litellm-dashboard/package.json",
       "use": "@vercel/next",
       "config": {
         "cwd": "ui/litellm-dashboard"
